@@ -1,16 +1,21 @@
 # Hi there, I'm Bibilomo Lawal 👋
 
-### Social Media Strategist & E-commerce Operations Specialist
+### Project Management Graduate (LASU) & Digital Operations Specialist 
 
-I bridge the gap between digital storytelling and operational excellence. I don't just drive traffic; I build the systems that convert it and the workflows that keep stores running smoothly.
-
----
-## 🚀 What I Do
-
-- **Social Media Management:** Content strategy, community growth, and paid social (Meta/TikTok) focused on ROI.
-- **E-commerce Operations:** Shopify/WooCommerce, odoo, Bumpa management, inventory logic, and third-party app integrations.
+I bridge the gap between social engagement and enterprise-level e-commerce systems. I don't just drive traffic; I build the systems that convert it and the workflows that keep stores running smoothly.
 
 ---
+## 🧠 Core Competencies
+
+I apply formal Project Management methodologies to the fast-paced world of E-commerce and Digital Marketing.
+
+| **Operations & Logistics** | **Strategic Growth** | **Project Leadership** |
+| :--- | :--- | :--- |
+| **Inventory Management:** Specialized in large-scale SKU migrations (1,500+) and Odoo ERP workflows. | **Social Strategy:** Data-backed content pillars that scale organic reach by over 1,000%. | **Stakeholder Management:** Experienced in reporting and coordination for executive-level projects (FAAN). |
+| **E-comm UX/UI:** Auditing storefronts to reduce cart abandonment and optimize checkout flows. | **Market Analysis:** Competitive gap analysis to position brands in the Luxury & Tech niches. | **Risk Mitigation:** Expert in "Zero Downtime" migrations and data integrity audits. |
+| **SEO Operations:** Technical on-page SEO and content marketing for high-volume catalogs. | **Resource Planning:** Efficiently managing content calendars and multi-team communication.
+---
+
 ## 🛠️ Tech Stack & Tools
 
 - **E-commerce:** Shopify, Odoo, WooCommerce, Bumpa.
@@ -62,12 +67,38 @@ I bridge the gap between digital storytelling and operational excellence. I don'
     * **Operational Efficiency:** Streamlined the fulfillment workflow, reducing order-to-ship time.
 * **[View Project Repo](https://www.premiumroyaltycosmetics.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnrvw3ZR5wi7ShFmkRnDwj4Dl6qLscKedNJ4o59y732bhKz7PrbqaEYDp43Zo_aem_Hfd_rKYvUzbeMMF6H4XlTQ)**
 
+## 🏛️ Professional Experience & Education
+
+### **Project Management Intern** | FAAN Headquarters, Ikeja  
+*Oct 2022 – Mar 2023*
+
+Supported executive leadership in the supervision of high-priority projects, including the **Building Protocol and VIP Lounge** at the Local Airport (MMA).
+
+* **Project Coordination:** Assisted in the oversight of facility upgrades, ensuring project milestones were met according to timeline.
+* **Documentation & Reporting:** Authored detailed project reports and maintained accurate records to ensure data integrity for executive review.
+* **Administrative Excellence:** Managed administrative workflows and facilitated seamless communication between technical teams and airport executives.
+* **Process Oversight:** Monitored building protocols to ensure compliance with aviation standards during project execution.
+
+### **National Youth Service Corps (NYSC) - Educator** | Messiah High School, Ondo State
+*Sept 2024 – Aug 2025*
+
+Served as an Agricultural and Pre-Vocational Studies Teacher, managing classroom operations and student development for [Insert Number, e.g., 100+] students.
+
+* **Curriculum Delivery:** Simplified complex vocational concepts into actionable lessons, improving student engagement and pass rates.
+* **Project Supervision:** Oversaw practical agricultural projects, applying project management principles to resource allocation and timing.
+* **Leadership & Mentorship:** Coordinated student activities and maintained detailed academic records and performance reports.
+* **Communication:** Facilitated clear communication between school administration, parents, and students.
+---
+
+## 🎓 Education
+
+* **B.Tech. Project Management** | Lagos State University (LASU)
+
 ---
 ## 📫 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/bibilomo-lawal-090b00274/)
-- 📧 [Email](mailto:bibilomo1999@gmail.com)
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/bibilomo-lawal-090b00274/)
+- 📧 **Email:** (mailto:bibilomo1999@gmail.com)
 - 💬 **WhatsApp:** [Message Me](https://wa.me/23489049040985)
-
 ---
+
 *“Optimizing the digital experience from the first scroll to the final click.”*
